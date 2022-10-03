@@ -1,5 +1,7 @@
 # Git_training
 
+course notes found here https://rhiannon77.github.io/Git_training/
+
 ## to do list
 - make a list
 - save the file

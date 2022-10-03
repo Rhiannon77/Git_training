@@ -6,3 +6,12 @@
 *stage the file
 *commit the file and write the message
 *push togithub change 
+
+put more stuff here as another change 
+create an index
+add content
+save the file
+stage
+commit
+push
+
